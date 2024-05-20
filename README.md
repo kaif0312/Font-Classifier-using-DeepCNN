@@ -3,7 +3,7 @@
 This project implements a deep learning classifier for font recognition using PyTorch. It involves preprocessing images, extracting text boxes, and classifying the fonts using a convolutional neural network (CNN).
 
 ## Files
-- 'fonts` : Folder where .ttf files of font-styles are stored.
+- `fonts` : Folder where .ttf files of font-styles are stored.
 - `font_classifier.ipynb`: Jupyter Notebook containing the implementation and explanation of the classifier.
 - `training_data/`: Directory containing the dataset images for training.
 - `models/model.py`: Python script defining the CNN model architecture.
