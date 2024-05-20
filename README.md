@@ -31,9 +31,9 @@ This project implements a deep learning classifier for font recognition using Py
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your_username/deep-learning-classifier.git
-   ```
+```bash
+git clone https://github.com/your_username/deep-learning-classifier.git
+```
 2. Navigate to the project directory:
 
 ```bash
